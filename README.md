@@ -5,7 +5,7 @@
 
 - 🔭 I am a passionate programmer who loves to code.
 
-- 🌱 I am a Java lover and I am currently focused on updating my skills in Java frameworks
+- 🌱 I am a web developer and java lover and I am currently focused on updating my skills in Java & Web frameworks
 
 - 📫 How to reach me **chanderbala687@gmail.com**
  <br />
